@@ -106,3 +106,13 @@ python compare_long_runs.py midterm-run-20261019-r4 midterm-b1-20261019 comparis
 ```
 
 原始运行脚本中的绝对路径用于追溯本机环境，不应直接在其他机器执行。 主报告列出的既有来源依赖原报告仓库或保留的私有证据，未声称全部包含在本归档中。
+
+- Terminal原答案恢复评分：[规范结果](../terminal-openssl-model-recovery-20261026/README.md)。
+
+- Navidrome增量：[规范结果](../swe-native018-navidrome-20261027/README.md)。
+
+- Terminal部分产物恢复评分：[规范结果](../terminal-cancel-async-partial-recovery-20261027/README.md)。
+
+- SWE增量与评分依赖：[规范结果](../swe-native018-protonmail-qutebrowser-20261027/README.md)；[Terminal Cython控制](../terminal-build-cython-controls-20261027/README.md)。
+
+- V0.95：[Protonmail同答案依赖恢复](../swe-protonmail-dependency-recovery-20261027/README.md)；[Cython单项诊断](../terminal-cython-single-trace-20261027/README.md)。
