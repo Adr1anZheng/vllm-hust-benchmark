@@ -1,9 +1,9 @@
 {
   "schema": "benchmark-data-entrypoints/v1",
   "source_snapshot": "docs/data-entrypoints-sources.json",
-  "captured_at": "2026-10-26T16:04:45.106770+00:00",
+  "captured_at": "2026-10-28T05:33:18.218287+00:00",
   "website_commit": "d1b225800743918da208e6585cd850f6013c5b0c",
-  "published_benchmark_commit": "c8deb4e460c811d92979dd87ccf8d61b3efcaf39",
+  "published_benchmark_commit": "f7f608384667f3ecad9820e93feec57f518892a4",
   "publication_manifest_source": "https://vllm-hust.sage.org.ai/data/benchmark-source-manifest.json",
   "production_manifest_error": null,
   "limits": "Offline navigation, not browser validation or evidence acceptance. Remote inventory is a dated snapshot. Literal links may be historical, dynamic, or unavailable. Reconstructed publication parts are checked locally; Release asset bytes are not downloaded.",
@@ -14,7 +14,7 @@
     "website-publication/data/README.md": "16c539a741761f2d304eb85571158c7f49a385da71edf893701e3126fe52ee06",
     "website-publication/data/VALIDATION_RULES.md": "0ae7bdaf57a6556d87906b3a0aa45d991d46c49eb8e180cd0c9d3449e50b4a53",
     "website-publication/data/agent_dataset_results.json": "e76bd9824e4ef756519c10968f89111d775dc72586244eab362f53c51563c930",
-    "website-publication/data/benchmark-evidence-links.json": "03e39fdacc5110320e2ab5c3e5f4853f05f35a6638c32cb922a44a06bf9b3049",
+    "website-publication/data/benchmark-evidence-links.json": "3ae6f2f3f76cb778ec5a48a7db37a17736c5459b5d495073d028471c8f45889d",
     "website-publication/data/betterscale-dataset-validation-20261015/report.json": "d90c31ca03e1ed6c55571a6f4748228cd7d7e4c702906e880c1de68383818e6c",
     "website-publication/data/betterscale-dsv4-steps.json": "e7b79b59ded38b2e7c4e7dd9c4f984343175751197c1f6ab42eb23fb2ecbb6f8",
     "website-publication/data/betterscale-hle-20261015/report.json": "7acc1ef79a759bd58656e0674fefee22d79918352de24bd0ee5471e9aa7ae57f",
@@ -40,7 +40,7 @@
     "website-publication/data/dataset_validation_qwen35_tp2_matrix.json": "8ac9f3d688d8543a75f3de70e69d3009a21ea48d1f1ed784be15f2fc2f8c4aa4",
     "website-publication/data/dataset_validation_v1.b0.json": "806660ab87d26bd426bcaddacc30e9bc030028f57c0ea62b23c8560eb7298584",
     "website-publication/data/dataset_validation_v1.empty.json": "c2ee55aa22a212142b7b313d2b178acf8c4bf8ba713a1d98b87e34914fe10ef5",
-    "website-publication/data/ecosystem.json": "3c949ad0e4eb22569b057e8f5122faf8698e0b684465a27fff4589cce4859a32",
+    "website-publication/data/ecosystem.json": "78a4a763d85a2a0dc918f2d1c7dca0dd64eac9b6a490ac346654bfbfd9183552",
     "website-publication/data/examples/frontier-submission/README.md": "fd9b6dd05694594a5473e604932e646569c5937bc76678a8710d62e019590311",
     "website-publication/data/examples/frontier-submission/evidence.json": "54b69199c24872c6638263a3afefd60a5dc167c93e6648d6b00c98884670e086",
     "website-publication/data/examples/frontier-submission/snapshot.json": "7a6526c3688c60ce03b6124c0fabbf67161f1e81b66105deba9eab00ca0f8fca",
@@ -68,15 +68,15 @@
     "website-publication/data/leaderboard_betterscale_knee_evidence.json": "9a5593d141e9d0a288d710375d3b78658f0e87634d0773c2dc09a08bbaff4c41",
     "website-publication/data/leaderboard_betterscale_width_evidence.json": "9a5722fb3d706ceeee9c1480c7b01e1a22327fae36d54e12e875ec8b245d7926",
     "website-publication/data/leaderboard_compare.json": "bc046247cc4317a1934177f61ffc3a1c60677e255ff263df8f6a72d92a7942d6",
-    "website-publication/data/leaderboard_frontier.json.publication.json": "8d97ca00f4164ee3fc2904d42f23601463fb410666aa3650affb5d4e5f399c04",
-    "website-publication/data/leaderboard_frontier.json.publication.part-000": "c7673364e629c5df9573c8f612931ca8ea7843fff8ce753a4236fc7e9c3c0c31",
-    "website-publication/data/leaderboard_frontier.json.publication.part-001": "89aca0af98d011e1679873baf7c548f83cdc31da64a738409cf8abb89873b85d",
+    "website-publication/data/leaderboard_frontier.json.publication.json": "96ed86a91829d528a855bbcd324e0fa885d489ec71bad605e301536516c7d208",
+    "website-publication/data/leaderboard_frontier.json.publication.part-000": "353edfea1a97ccb9677daaab1fd3facff24d31c754f259196c2fd923237827c4",
+    "website-publication/data/leaderboard_frontier.json.publication.part-001": "1dbd8ac6190ce57da315294625d53ac64db976e8597a8bc9ed3c9319a582e2d3",
     "website-publication/data/leaderboard_frontier_dsv4_evidence.json": "1026eb58d3c68ae54f604a8c82b3bd78a922960ec5d00cb2a5f2fb9dc091c7f8",
     "website-publication/data/leaderboard_frontier_evidence.json": "6aa7b39a0764b80b821d42b3fd6b8b35a310309c872a36f83109edfd2a9d5cdd",
     "website-publication/data/leaderboard_frontier_expert_evidence.json": "d3d9f88c242f62436509d4ecc5562637adcb05a2b7d42c4657645646a77c85be",
     "website-publication/data/leaderboard_frontier_native_20261013_evidence.json": "e5f878eb6993942040128081e45a15bb10e17a71dcce78f21f414f314d56cf4b",
-    "website-publication/data/leaderboard_frontier_swe_evidence.json.publication.json": "dd5e2e16e329f2a01b78f14f1de27557d6ae5a1b1cf67890af2adcd1cc69bd96",
-    "website-publication/data/leaderboard_frontier_swe_evidence.json.publication.part-000": "2bc70cda5b22589a7f6ea948b86550c520bf73c7ab13ec38f055a7b7ee07a9ea",
+    "website-publication/data/leaderboard_frontier_swe_evidence.json.publication.json": "258f628cd5e516fa3cf1c0864bbee95c558672ca895e77f2b571b149033f1008",
+    "website-publication/data/leaderboard_frontier_swe_evidence.json.publication.part-000": "0b1979f0771ed0dccceac3caaf789f3147031053f9ac656ac46f7292184aed5c",
     "website-publication/data/leaderboard_historical.json.publication.json": "da51f00e28c90e2b02879f9b113fd63d6be67b76f18e78f2c4632dfb314cb1b3",
     "website-publication/data/leaderboard_historical.json.publication.part-000": "61447af9e733dccdae5df9ed3b95f1a889f38a2a1e9c45df61071425a1ca000f",
     "website-publication/data/leaderboard_mod_attributions.json": "f835f4d1e417362a6ad2fe0922462509ceda432279ab148a5bddee829bc19b77",
@@ -147,7 +147,7 @@
     "website-publication/data/official_targets.sha256": "8a79fe0d854af570ffcef27693898fc124981ae09cc07de685752654abb2c211",
     "website-publication/data/plugin-performance.json": "2f1e3a9036adf8fc937e257e129870cabac013018b6f25abed6ddf1fa4314bbd",
     "website-publication/data/plugin-workload-navigation.json": "269d387b9ae9581e2debd914dbd535b4096c85f523715bfa1a80557b9889eaed",
-    "website-publication/data/plugin-workshop-metadata.json": "a5f9897fa674f7c006ee29316a51319c55508b7c4968a8a179adbc8be1952c49",
+    "website-publication/data/plugin-workshop-metadata.json": "b3bce09a0bc12f5d1e1667be6b1dd05c824fa162be21c1a555512bb1e4e98293",
     "website-publication/data/repository-portfolio.json": "4ba0c9140553fa40c6490501c37567d940fd726563bdb6d6ba6fed261f584c3f",
     "website-publication/data/request-throttling-dataset-matrix-20261018/frontierscience.json": "79adab6c4415f064424c5369417066d7cabb50d105632d375b14cc8e5267663e",
     "website-publication/data/request-throttling-dataset-matrix-20261018/hle-gold.json": "126dcfeb5b9b382f9ecac3e42695a53430d8c98e647d86f7af0da5e8a59d5a44",
@@ -232,7 +232,7 @@
       "storage_paths": [
         "website-publication/data/benchmark-evidence-links.json"
       ],
-      "sha256": "03e39fdacc5110320e2ab5c3e5f4853f05f35a6638c32cb922a44a06bf9b3049",
+      "sha256": "3ae6f2f3f76cb778ec5a48a7db37a17736c5459b5d495073d028471c8f45889d",
       "snapshot_publication_status": "same-bytes"
     },
     {
@@ -466,7 +466,7 @@
       "storage_paths": [
         "website-publication/data/ecosystem.json"
       ],
-      "sha256": "3c949ad0e4eb22569b057e8f5122faf8698e0b684465a27fff4589cce4859a32",
+      "sha256": "78a4a763d85a2a0dc918f2d1c7dca0dd64eac9b6a490ac346654bfbfd9183552",
       "snapshot_publication_status": "same-bytes"
     },
     {
@@ -720,7 +720,7 @@
         "website-publication/data/leaderboard_frontier.json.publication.part-000",
         "website-publication/data/leaderboard_frontier.json.publication.part-001"
       ],
-      "sha256": "167b1d346ea1abc07c7edd0f4f6d41dff06bec4187209af89289eeb7334e7f0f",
+      "sha256": "0ae6e038233522aadc441e1692073d1d84c9658ce4b736652109027f3a8674e9",
       "snapshot_publication_status": "same-bytes"
     },
     {
@@ -766,7 +766,7 @@
         "website-publication/data/leaderboard_frontier_swe_evidence.json.publication.json",
         "website-publication/data/leaderboard_frontier_swe_evidence.json.publication.part-000"
       ],
-      "sha256": "6e4185a7b75eef8272ccdbd630b7805f91760c85921c62ba12f4e39896cb27a5",
+      "sha256": "225145337f91f11e6ff6fe65ff64b2747664d50a7684330fa7104534c6a0f42a",
       "snapshot_publication_status": "same-bytes"
     },
     {
@@ -1200,7 +1200,7 @@
         "website-publication/data/midterm-v089.json"
       ],
       "sha256": "80a72f1b24ea67cb568da8fefbfe8a0cd2b1487c2f4c3197b92845e7602e958b",
-      "snapshot_publication_status": "not-in-snapshot"
+      "snapshot_publication_status": "same-bytes"
     },
     {
       "website_path": "data/midterm-v090.json",
@@ -1209,7 +1209,7 @@
         "website-publication/data/midterm-v090.json"
       ],
       "sha256": "6ce3783755f7738699f324065c3481fabd249f19a1521e66f05822f1c0a09e09",
-      "snapshot_publication_status": "not-in-snapshot"
+      "snapshot_publication_status": "same-bytes"
     },
     {
       "website_path": "data/midterm-v091.json",
@@ -1218,7 +1218,7 @@
         "website-publication/data/midterm-v091.json"
       ],
       "sha256": "9da71f754f76241a9bf6ff4fb23ec253fe41b6dda3ae6546f6b7584ef65becb9",
-      "snapshot_publication_status": "not-in-snapshot"
+      "snapshot_publication_status": "same-bytes"
     },
     {
       "website_path": "data/midterm-v092.json",
@@ -1227,7 +1227,7 @@
         "website-publication/data/midterm-v092.json"
       ],
       "sha256": "f02ac09aad5784768497c672397271073798cb271b3b4f2717274e70ff6293fe",
-      "snapshot_publication_status": "not-in-snapshot"
+      "snapshot_publication_status": "same-bytes"
     },
     {
       "website_path": "data/midterm-v093.json",
@@ -1236,7 +1236,7 @@
         "website-publication/data/midterm-v093.json"
       ],
       "sha256": "4bc55e2d7898c10542d4996f0420b806ba2ea7f78a33ee44305cb8f1d962a850",
-      "snapshot_publication_status": "not-in-snapshot"
+      "snapshot_publication_status": "same-bytes"
     },
     {
       "website_path": "data/midterm-v094.json",
@@ -1245,7 +1245,7 @@
         "website-publication/data/midterm-v094.json"
       ],
       "sha256": "c26ba7cd7ac5779710bf87a44ea39309630fa24ba7a1f1c50a31ea2919a10af9",
-      "snapshot_publication_status": "not-in-snapshot"
+      "snapshot_publication_status": "same-bytes"
     },
     {
       "website_path": "data/midterm-v095.json",
@@ -1254,7 +1254,7 @@
         "website-publication/data/midterm-v095.json"
       ],
       "sha256": "f007eb4a69b99829b421899a35d7d3bf4f87b828d7349bf87507dcc11a05506e",
-      "snapshot_publication_status": "not-in-snapshot"
+      "snapshot_publication_status": "same-bytes"
     },
     {
       "website_path": "data/midterm-v096.json",
@@ -1263,7 +1263,7 @@
         "website-publication/data/midterm-v096.json"
       ],
       "sha256": "34ce6d57122f29a3c44344ed847a890803b0bb49c0aa70ac32a4b4d7ec310f3c",
-      "snapshot_publication_status": "not-in-snapshot"
+      "snapshot_publication_status": "same-bytes"
     },
     {
       "website_path": "data/midterm-v097.json",
@@ -1272,7 +1272,7 @@
         "website-publication/data/midterm-v097.json"
       ],
       "sha256": "188681cd7d82193dcfeab4244948b2300e87753a683be6075c3f73a7d514f9a3",
-      "snapshot_publication_status": "not-in-snapshot"
+      "snapshot_publication_status": "same-bytes"
     },
     {
       "website_path": "data/midterm-v098.json",
@@ -1281,7 +1281,7 @@
         "website-publication/data/midterm-v098.json"
       ],
       "sha256": "7370e0ab871cef34d3ba7a39cd379c879c4e27f5b1fd36730828ffce33277d87",
-      "snapshot_publication_status": "not-in-snapshot"
+      "snapshot_publication_status": "same-bytes"
     },
     {
       "website_path": "data/midterm-v099.json",
@@ -1290,7 +1290,7 @@
         "website-publication/data/midterm-v099.json"
       ],
       "sha256": "db11f47784f2c9863b6e2f38e92d6f084d5b87d6d6f7edfd084285826d9cc664",
-      "snapshot_publication_status": "not-in-snapshot"
+      "snapshot_publication_status": "same-bytes"
     },
     {
       "website_path": "data/mmlu-pro-20261012/accuracy.json",
@@ -1397,7 +1397,7 @@
       "storage_paths": [
         "website-publication/data/plugin-workshop-metadata.json"
       ],
-      "sha256": "a5f9897fa674f7c006ee29316a51319c55508b7c4968a8a179adbc8be1952c49",
+      "sha256": "b3bce09a0bc12f5d1e1667be6b1dd05c824fa162be21c1a555512bb1e4e98293",
       "snapshot_publication_status": "same-bytes"
     },
     {
@@ -2180,6 +2180,14 @@
       "resolution": "unmapped-embedded-path"
     },
     {
+      "target": "/data/jxd/quant-Qwen3.5-35B-A3B/logs/swe_server_w8a8nr_20261023T160700Z.log",
+      "consumers": [
+        "website-publication/data/leaderboard_frontier_swe_evidence.json.publication.json"
+      ],
+      "benchmark_path": null,
+      "resolution": "unmapped-embedded-path"
+    },
+    {
       "target": "/data/jxd/quant-Qwen3.5-35B-A3B/logs/tp1_swe_metrics_20261014T033011Z.tsv",
       "consumers": [
         "website-publication/data/leaderboard_frontier_swe_evidence.json.publication.json"
@@ -2189,6 +2197,22 @@
     },
     {
       "target": "/data/jxd/quant-Qwen3.5-35B-A3B/logs/tp1_swe_sweep_20261014T033011Z.log",
+      "consumers": [
+        "website-publication/data/leaderboard_frontier_swe_evidence.json.publication.json"
+      ],
+      "benchmark_path": null,
+      "resolution": "unmapped-embedded-path"
+    },
+    {
+      "target": "/data/jxd/quant-Qwen3.5-35B-A3B/logs/w4a8ours-tp1-pinmax_swe_metrics_20261023T161803Z.tsv",
+      "consumers": [
+        "website-publication/data/leaderboard_frontier_swe_evidence.json.publication.json"
+      ],
+      "benchmark_path": null,
+      "resolution": "unmapped-embedded-path"
+    },
+    {
+      "target": "/data/jxd/quant-Qwen3.5-35B-A3B/logs/w4a8ours-tp1-pinmax_swe_sweep_20261023T161803Z.log",
       "consumers": [
         "website-publication/data/leaderboard_frontier_swe_evidence.json.publication.json"
       ],
@@ -7567,6 +7591,13 @@
     },
     {
       "target": "https://github.com/vLLM-HUST/vllm-hust-website/blob/main/docs/FRONTIER-QWEN35-UNIFIED-MODS.md",
+      "consumers": [
+        "website-publication/data/leaderboard_frontier.json.publication.json"
+      ],
+      "resolution": "literal-external-link-not-fetched"
+    },
+    {
+      "target": "https://github.com/vLLM-HUST/vllm-hust-website/blob/main/docs/FRONTIER-QWEN35-W4A8-GDNW8A8-TP1-SWE-PREFIX.md",
       "consumers": [
         "website-publication/data/leaderboard_frontier.json.publication.json"
       ],
@@ -13620,6 +13651,42 @@
       "verification": "API metadata only; verify downloaded bytes against custody manifests before use"
     },
     {
+      "tag": "evidence-muxpd-counterfactual-20261028",
+      "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/tag/evidence-muxpd-counterfactual-20261028",
+      "id": 426293431,
+      "published_at": "2026-10-28T05:29:10Z",
+      "assets": [
+        {
+          "name": "MANIFEST-v1.json",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-counterfactual-20261028/MANIFEST-v1.json",
+          "id": 683942558,
+          "bytes": 289092,
+          "digest": "sha256:00979c97c654a16e13f617678a24d294fd669987c03ca4ce772016a1af5da9f2",
+          "updated_at": "2026-10-28T05:28:37Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "SHA256SUMS-v1",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-counterfactual-20261028/SHA256SUMS-v1",
+          "id": 683942562,
+          "bytes": 198,
+          "digest": "sha256:43392609592e7134da60a9f027555a07bf855c22f2af1b0e837af84ecd2e2ea4",
+          "updated_at": "2026-10-28T05:28:36Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "muxpd-counterfactual-20261028-evidence-v1.tar.gz",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-counterfactual-20261028/muxpd-counterfactual-20261028-evidence-v1.tar.gz",
+          "id": 683942563,
+          "bytes": 263733493,
+          "digest": "sha256:1ea0a4861112593f111ad9e67ca3edb66fe60f1ad5d2e91555c10167d7604ff8",
+          "updated_at": "2026-10-28T05:29:08Z",
+          "state": "uploaded"
+        }
+      ],
+      "verification": "API metadata only; verify downloaded bytes against custody manifests before use"
+    },
+    {
       "tag": "evidence-muxpd-ecpa-20261025",
       "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/tag/evidence-muxpd-ecpa-20261025",
       "id": 423653941,
@@ -14340,6 +14407,42 @@
       "verification": "API metadata only; verify downloaded bytes against custody manifests before use"
     },
     {
+      "tag": "evidence-muxpd-quality-review-20261028",
+      "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/tag/evidence-muxpd-quality-review-20261028",
+      "id": 426252245,
+      "published_at": "2026-10-28T04:09:16Z",
+      "assets": [
+        {
+          "name": "MANIFEST-v1.json",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-quality-review-20261028/MANIFEST-v1.json",
+          "id": 683776839,
+          "bytes": 285185,
+          "digest": "sha256:4860bf2442fb59cbae46199508ede5bf850dc63f5301cbbc9984a35c4265e211",
+          "updated_at": "2026-10-28T04:08:25Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "SHA256SUMS-v1",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-quality-review-20261028/SHA256SUMS-v1",
+          "id": 683776836,
+          "bytes": 198,
+          "digest": "sha256:1f68c358355c9cc1e1944b8e9336aff9df2d12e3deca77cfe8d37498a99019cf",
+          "updated_at": "2026-10-28T04:08:24Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "muxpd-quality-review-20261028-evidence-v1.tar.gz",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-quality-review-20261028/muxpd-quality-review-20261028-evidence-v1.tar.gz",
+          "id": 683776838,
+          "bytes": 259561638,
+          "digest": "sha256:e14cdfdb3401b2bb7da5d52e1feb2865f1423a1a6adf923d88c2d88ad9f8ecbe",
+          "updated_at": "2026-10-28T04:09:14Z",
+          "state": "uploaded"
+        }
+      ],
+      "verification": "API metadata only; verify downloaded bytes against custody manifests before use"
+    },
+    {
       "tag": "evidence-muxpd-scheduling-20261026",
       "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/tag/evidence-muxpd-scheduling-20261026",
       "id": 424465301,
@@ -14523,6 +14626,78 @@
           "bytes": 15707721,
           "digest": "sha256:a931a7329ad534f03fb7d05e7845b43125c19637b7daf33b146dd9aeebcfe951",
           "updated_at": "2026-10-21T10:32:03Z",
+          "state": "uploaded"
+        }
+      ],
+      "verification": "API metadata only; verify downloaded bytes against custody manifests before use"
+    },
+    {
+      "tag": "evidence-traceloom-tp2-20261027-v1",
+      "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/tag/evidence-traceloom-tp2-20261027-v1",
+      "id": 424951998,
+      "published_at": "2026-10-27T01:49:59Z",
+      "assets": [
+        {
+          "name": "MANIFEST.json",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-traceloom-tp2-20261027-v1/MANIFEST.json",
+          "id": 680115387,
+          "bytes": 543436,
+          "digest": "sha256:b7ae5ef60c99e2d0a49ea744c6fd6f9b30955aa2fc2f2db9d9917059b202af10",
+          "updated_at": "2026-10-27T01:48:53Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-traceloom-tp2-20261027-v1/SHA256SUMS",
+          "id": 680115417,
+          "bytes": 603,
+          "digest": "sha256:1e9351ae6d807577fe6d467d89416b697f5d8b55e2d23a7fad917ff748527b23",
+          "updated_at": "2026-10-27T01:48:54Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "traceloom-tp2-c0-host-20261027.tar.zst",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-traceloom-tp2-20261027-v1/traceloom-tp2-c0-host-20261027.tar.zst",
+          "id": 680115340,
+          "bytes": 183233816,
+          "digest": "sha256:7c2417db374e5df883da421ab44b94c8e3b7b4ec1836cd7b0a9288f92fe2c8aa",
+          "updated_at": "2026-10-27T01:49:38Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "traceloom-tp2-c1-aiv-20261027.tar.zst",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-traceloom-tp2-20261027-v1/traceloom-tp2-c1-aiv-20261027.tar.zst",
+          "id": 680115338,
+          "bytes": 151581727,
+          "digest": "sha256:ee2bac7fe82c942ecd6e35f7ec838afc02ab713c34423557ebc55bdcc695d6b5",
+          "updated_at": "2026-10-27T01:49:32Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "traceloom-tp2-c2-aiv-20261027.tar.zst",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-traceloom-tp2-20261027-v1/traceloom-tp2-c2-aiv-20261027.tar.zst",
+          "id": 680115330,
+          "bytes": 151533277,
+          "digest": "sha256:cf8eb776357d25e28a3f67696606026137195f4a85b693e40accde353064a420",
+          "updated_at": "2026-10-27T01:49:30Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "traceloom-tp2-c3-host-20261027.tar.zst",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-traceloom-tp2-20261027-v1/traceloom-tp2-c3-host-20261027.tar.zst",
+          "id": 680115344,
+          "bytes": 182931499,
+          "digest": "sha256:55b7c1e103bdb9f15a5581b0fc2708f81811c61b9f3e92e453f91a019fbb35a5",
+          "updated_at": "2026-10-27T01:49:35Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "traceloom-tp2-support-20261027.tar.zst",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-traceloom-tp2-20261027-v1/traceloom-tp2-support-20261027.tar.zst",
+          "id": 680115345,
+          "bytes": 3065133,
+          "digest": "sha256:6664ea66f8514a294cd6555a6d6eda15b18d3e57148c753f3233055916ee8e15",
+          "updated_at": "2026-10-27T01:48:52Z",
           "state": "uploaded"
         }
       ],
@@ -15714,6 +15889,105 @@
           "state": "uploaded"
         },
         {
+          "name": "midterm-v089-production-20261026.tar.gz",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/m01-recovery-20261021-r7/midterm-v089-production-20261026.tar.gz",
+          "id": 678756656,
+          "bytes": 1634547,
+          "digest": "sha256:d4b1493cfc8b787b565a1a012f9254b998dc77ce8a9f699971d2556248e54c6c",
+          "updated_at": "2026-10-26T16:30:15Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "midterm-v090-production-20261026.tar.gz",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/m01-recovery-20261021-r7/midterm-v090-production-20261026.tar.gz",
+          "id": 679014349,
+          "bytes": 3912402,
+          "digest": "sha256:35918d5dbf652608eaaf9705ca28f09ce4eef5d8a05a852b425febd05d92d05c",
+          "updated_at": "2026-10-26T18:05:46Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "midterm-v091-production-20261026.tar.gz",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/m01-recovery-20261021-r7/midterm-v091-production-20261026.tar.gz",
+          "id": 679252346,
+          "bytes": 3861513,
+          "digest": "sha256:f9e4b51eedee76427b7efbdd52677a174f665442452e3a1fc9f83310933b44f8",
+          "updated_at": "2026-10-26T19:41:48Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "midterm-v092-production-20261027.tar.gz",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/m01-recovery-20261021-r7/midterm-v092-production-20261027.tar.gz",
+          "id": 679496788,
+          "bytes": 3817903,
+          "digest": "sha256:03bf5ed6e057f00a52fd1a7c5e4c9c1d8c62acae8cb9bf9dd48da0c23ccfa402",
+          "updated_at": "2026-10-26T21:15:01Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "midterm-v093-production-20261027.tar.gz",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/m01-recovery-20261021-r7/midterm-v093-production-20261027.tar.gz",
+          "id": 679604465,
+          "bytes": 4260730,
+          "digest": "sha256:baffc5b47307f6a7e0bc873e64949992edd70df1667b7e44823736ece6b49245",
+          "updated_at": "2026-10-26T21:58:08Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "midterm-v094-production-20261027.tar.gz",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/m01-recovery-20261021-r7/midterm-v094-production-20261027.tar.gz",
+          "id": 679913606,
+          "bytes": 4982434,
+          "digest": "sha256:eafb19d77f5ceb642b5401a899d82db3bfb85ce0e7e1a3e2a0fc65f3daf104ed",
+          "updated_at": "2026-10-27T00:15:31Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "midterm-v095-production-20261027.tar.gz",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/m01-recovery-20261021-r7/midterm-v095-production-20261027.tar.gz",
+          "id": 680091008,
+          "bytes": 4869789,
+          "digest": "sha256:2b1505c375bb634e544c157a324880701ee2f3b7c1c8f1f13a7fe0560bbc9f71",
+          "updated_at": "2026-10-27T01:38:39Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "midterm-v096-production-20261027.tar.gz",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/m01-recovery-20261021-r7/midterm-v096-production-20261027.tar.gz",
+          "id": 680349137,
+          "bytes": 3215389,
+          "digest": "sha256:fec13ab6656379a68f2e77a4bbd0066dec18df1b61a869bd5a2a2bb295a51228",
+          "updated_at": "2026-10-27T03:45:38Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "midterm-v097-production-20261027.tar.gz",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/m01-recovery-20261021-r7/midterm-v097-production-20261027.tar.gz",
+          "id": 680565522,
+          "bytes": 3664482,
+          "digest": "sha256:f823e7bb8328abb7c2075f71b4d0260bbe5062b6c41eef4c582a5244a3a53e1a",
+          "updated_at": "2026-10-27T05:29:35Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "midterm-v098-production-20261027.tar.gz",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/m01-recovery-20261021-r7/midterm-v098-production-20261027.tar.gz",
+          "id": 680880398,
+          "bytes": 4059483,
+          "digest": "sha256:587934651c537b3d1b176a37e12feb86db9060279326caa6ddd815b542e3d791",
+          "updated_at": "2026-10-27T07:59:42Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "midterm-v099-production-20261027.tar.gz",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/m01-recovery-20261021-r7/midterm-v099-production-20261027.tar.gz",
+          "id": 681257658,
+          "bytes": 4072939,
+          "digest": "sha256:e98566025fa9111b3c484aff737e30a97c6083d2487bad91eecbe63335a647ec",
+          "updated_at": "2026-10-27T10:32:30Z",
+          "state": "uploaded"
+        },
+        {
           "name": "mmlu-subset-production-20261022.tar.gz",
           "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/m01-recovery-20261021-r7/mmlu-subset-production-20261022.tar.gz",
           "id": 664924319,
@@ -15885,6 +16159,60 @@
           "state": "uploaded"
         },
         {
+          "name": "swe-controls-v094-20261027.tar.gz",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/m01-recovery-20261021-r7/swe-controls-v094-20261027.tar.gz",
+          "id": 679862197,
+          "bytes": 315895,
+          "digest": "sha256:9efe457cf9364135f1f58fc547c1d261d2eedd2bcb731f482212ddcc7a240809",
+          "updated_at": "2026-10-26T23:51:18Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "swe-controls-v095-20261027.tar.gz",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/m01-recovery-20261021-r7/swe-controls-v095-20261027.tar.gz",
+          "id": 680046525,
+          "bytes": 333574,
+          "digest": "sha256:752362f4451b2e744febe804f3b700a3085085e85add331e95187b0d035f6cfa",
+          "updated_at": "2026-10-27T01:20:31Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "swe-controls-v096-20261027.tar.gz",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/m01-recovery-20261021-r7/swe-controls-v096-20261027.tar.gz",
+          "id": 680269309,
+          "bytes": 359456,
+          "digest": "sha256:1ed164ea87dd0f90a01db156417652b540ce8015822549f3b57289a7315eddce",
+          "updated_at": "2026-10-27T03:05:34Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "swe-controls-v097-20261027.tar.gz",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/m01-recovery-20261021-r7/swe-controls-v097-20261027.tar.gz",
+          "id": 680513411,
+          "bytes": 401219,
+          "digest": "sha256:3dabe549d147783aa5abd767f3537978b4358bf6dc0df6d5e4c6c465dc824b58",
+          "updated_at": "2026-10-27T05:06:03Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "swe-controls-v098-20261027.tar.gz",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/m01-recovery-20261021-r7/swe-controls-v098-20261027.tar.gz",
+          "id": 680764635,
+          "bytes": 440556,
+          "digest": "sha256:12952a286be2f3d9743608aff8b82cbd77858f4fd705845586c9dcd4de87b6e3",
+          "updated_at": "2026-10-27T07:06:01Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "swe-controls-v099-20261027.tar.gz",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/m01-recovery-20261021-r7/swe-controls-v099-20261027.tar.gz",
+          "id": 681190529,
+          "bytes": 485148,
+          "digest": "sha256:1e8a25e9ba7816d577c1627d149d20f0f920b0ded1189d456b3de394cf9b7946",
+          "updated_at": "2026-10-27T10:06:34Z",
+          "state": "uploaded"
+        },
+        {
           "name": "swe-full-source-and-review-20261026-r1.tar.gz",
           "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/m01-recovery-20261021-r7/swe-full-source-and-review-20261026-r1.tar.gz",
           "id": 677042696,
@@ -15927,6 +16255,42 @@
           "bytes": 203802,
           "digest": "sha256:6c9040768ec729057f614b724785f320bee88fb37c0015c541dcea47368f64f1",
           "updated_at": "2026-10-26T15:52:52Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "swe-native018-incremental-v090-20261026.tar.gz",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/m01-recovery-20261021-r7/swe-native018-incremental-v090-20261026.tar.gz",
+          "id": 678883772,
+          "bytes": 236343,
+          "digest": "sha256:f22b47cc69e689b182c7a629af5b8d87d6728c9ea592e9e5cd9fe692252e0a56",
+          "updated_at": "2026-10-26T17:17:51Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "swe-native018-incremental-v092-20261027.tar.gz",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/m01-recovery-20261021-r7/swe-native018-incremental-v092-20261027.tar.gz",
+          "id": 679418866,
+          "bytes": 259412,
+          "digest": "sha256:0650c52faf474f475f67e066f13021fdee966ceaac385962f8cc074402edb68b",
+          "updated_at": "2026-10-26T20:44:50Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "terminal-original-answer-recovery-v091-20261026.tar.gz",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/m01-recovery-20261021-r7/terminal-original-answer-recovery-v091-20261026.tar.gz",
+          "id": 679164595,
+          "bytes": 172053,
+          "digest": "sha256:89a30a4836c78bfae2048e9ce358cd1b4e82b327144d4f1ad711ea8f42acb178",
+          "updated_at": "2026-10-26T19:06:42Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "terminal-partial-artifact-v093-20261027.tar.gz",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/m01-recovery-20261021-r7/terminal-partial-artifact-v093-20261027.tar.gz",
+          "id": 679549676,
+          "bytes": 173344,
+          "digest": "sha256:2f5c7f118b67dd237bf8d1f64b8428a629061bcc7764dfa07b1f6d6dd34452db",
+          "updated_at": "2026-10-26T21:35:39Z",
           "state": "uploaded"
         },
         {
@@ -16682,8 +17046,8 @@
   ],
   "counts": {
     "publication_bindings": 158,
-    "references": 1163,
-    "releases": 21,
-    "assets": 349
+    "references": 1167,
+    "releases": 24,
+    "assets": 383
   }
 }
