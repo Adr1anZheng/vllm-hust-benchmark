@@ -1,6 +1,6 @@
 {
   "schema": "benchmark-navigation-sources/v1",
-  "captured_at": "2026-10-28T09:37:37.270692+00:00",
+  "captured_at": "2026-10-29T20:10:28.834534+00:00",
   "release_repository": "vLLM-HUST/vllm-hust-benchmark",
   "release_scope": "All non-draft Releases and separately paginated attachment metadata, including incomplete uploads. Only state=uploaded denotes a completed attachment; no asset download or checksum verification.",
   "releases": [
@@ -330,6 +330,95 @@
       ]
     },
     {
+      "tag": "evidence-muxpd-conv-diagnostic-20261029",
+      "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/tag/evidence-muxpd-conv-diagnostic-20261029",
+      "id": 428003155,
+      "published_at": "2026-10-29T14:54:16Z",
+      "assets": [
+        {
+          "name": "REPORT-v1.zh-CN.md",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-conv-diagnostic-20261029/REPORT-v1.zh-CN.md",
+          "id": 688891701,
+          "bytes": 8071,
+          "digest": "sha256:7e19d14e93a476b8e316514791f07e48ee5f6ceb12ca3342e6e811301d959d7a",
+          "updated_at": "2026-10-29T14:53:56Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-conv-diagnostic-20261029/SHA256SUMS",
+          "id": 688892382,
+          "bytes": 744,
+          "digest": "sha256:07701d3e8dd65ab7a2b144db13b3743bff78ee948b325170021715773d6f5757",
+          "updated_at": "2026-10-29T14:54:11Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "analysis-v2.json",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-conv-diagnostic-20261029/analysis-v2.json",
+          "id": 688892381,
+          "bytes": 48951,
+          "digest": "sha256:bd4dbbfbc166e66112df846d2f25f9f342fa0f84a8f43b15775de014d8699aa1",
+          "updated_at": "2026-10-29T14:54:11Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "archive-manifest-v1.json",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-conv-diagnostic-20261029/archive-manifest-v1.json",
+          "id": 688891700,
+          "bytes": 111806,
+          "digest": "sha256:8a8fb42921352006551a23ca1ca8fe4f04517dc507858a9ed70f7042557dd336",
+          "updated_at": "2026-10-29T14:53:57Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "archive-record-v1.json",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-conv-diagnostic-20261029/archive-record-v1.json",
+          "id": 688891699,
+          "bytes": 483,
+          "digest": "sha256:f3f7184c026bb4cd563db2a796db627ef886338bd976478ebdc7bf1954ebf661",
+          "updated_at": "2026-10-29T14:53:56Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "external-dependencies-v1.json",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-conv-diagnostic-20261029/external-dependencies-v1.json",
+          "id": 688892379,
+          "bytes": 10854,
+          "digest": "sha256:a13cbf635477fd5c88f34622eff5d9c6106d35780e36cb4a3f494347c5a425c8",
+          "updated_at": "2026-10-29T14:54:11Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "independent-audit-summary-v2.json",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-conv-diagnostic-20261029/independent-audit-summary-v2.json",
+          "id": 688892385,
+          "bytes": 3051,
+          "digest": "sha256:5fc276d159e2e4acc0815adb91c53c44dfd30a7dbbfaa507e91a164621df4dc3",
+          "updated_at": "2026-10-29T14:54:12Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "local-verification-v1.json",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-conv-diagnostic-20261029/local-verification-v1.json",
+          "id": 688891703,
+          "bytes": 513,
+          "digest": "sha256:bf6c7b9d6e1c9b7e8e600da30e2f95bee137cb76393fce65a86ce964b9b7955c",
+          "updated_at": "2026-10-29T14:53:56Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "muxpd-conv-diagnostic-20261029-v1.tar.gz",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-conv-diagnostic-20261029/muxpd-conv-diagnostic-20261029-v1.tar.gz",
+          "id": 688891704,
+          "bytes": 15190758,
+          "digest": "sha256:90780d770a6714f1b6c9aa4155dfc16a21fc01f23a637cfc023be839c6e15b8a",
+          "updated_at": "2026-10-29T14:54:14Z",
+          "state": "uploaded"
+        }
+      ]
+    },
+    {
       "tag": "evidence-muxpd-counterfactual-20261028",
       "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/tag/evidence-muxpd-counterfactual-20261028",
       "id": 426293431,
@@ -440,6 +529,95 @@
           "bytes": 315,
           "digest": "sha256:e3ec5b18cdb75911b31eaded7d7dcce2ce997d4a6aba13c91396e4d5a3b4143c",
           "updated_at": "2026-10-25T21:31:02Z",
+          "state": "uploaded"
+        }
+      ]
+    },
+    {
+      "tag": "evidence-muxpd-first-decode-collective-20261029",
+      "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/tag/evidence-muxpd-first-decode-collective-20261029",
+      "id": 428049570,
+      "published_at": "2026-10-29T15:30:51Z",
+      "assets": [
+        {
+          "name": "REPORT-v1.zh-CN.md",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-first-decode-collective-20261029/REPORT-v1.zh-CN.md",
+          "id": 688999679,
+          "bytes": 4953,
+          "digest": "sha256:8ff21475097279ba95f99492779dcd30b97069a79d41667d937be32b96962faa",
+          "updated_at": "2026-10-29T15:30:35Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-first-decode-collective-20261029/SHA256SUMS",
+          "id": 688999957,
+          "bytes": 752,
+          "digest": "sha256:f99e6e27c368c99766a7cdfc805dc06fceaf23bfe47ec86da58d260aabdbec50",
+          "updated_at": "2026-10-29T15:30:42Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "analysis-v1.json",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-first-decode-collective-20261029/analysis-v1.json",
+          "id": 688999955,
+          "bytes": 41297,
+          "digest": "sha256:7f10818956a5dd69fa06040e31a59ef270ca91e75188a7e7fd63d20f4e00be15",
+          "updated_at": "2026-10-29T15:30:42Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "archive-manifest-v1.json",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-first-decode-collective-20261029/archive-manifest-v1.json",
+          "id": 688999664,
+          "bytes": 75631,
+          "digest": "sha256:19403cb8485457edd222e9b44b5429cf065586071906a464c49dabd86d09b644",
+          "updated_at": "2026-10-29T15:30:35Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "archive-record-v1.json",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-first-decode-collective-20261029/archive-record-v1.json",
+          "id": 688999677,
+          "bytes": 490,
+          "digest": "sha256:465beda0fec1bf9c4ac405b07b6e9aa1bd2e8bdfbdb62163b0f17a4d8159f3af",
+          "updated_at": "2026-10-29T15:30:35Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "external-dependencies-v1.json",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-first-decode-collective-20261029/external-dependencies-v1.json",
+          "id": 688999954,
+          "bytes": 14222,
+          "digest": "sha256:039296b6f8b2841582270401d85576721dd11658775907523200e7d8658c2425",
+          "updated_at": "2026-10-29T15:30:42Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "independent-audit-summary-v1.json",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-first-decode-collective-20261029/independent-audit-summary-v1.json",
+          "id": 688999951,
+          "bytes": 5655,
+          "digest": "sha256:faa5fff28b97050b4537f5ad4606de19f102b6fdd871edc8cb6aa3a9934b397a",
+          "updated_at": "2026-10-29T15:30:42Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "local-verification-v1.json",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-first-decode-collective-20261029/local-verification-v1.json",
+          "id": 688999675,
+          "bytes": 520,
+          "digest": "sha256:c733be94a45c5cc8d3e4508116a454325c23064907a5ff13205237f5c45209c5",
+          "updated_at": "2026-10-29T15:30:35Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "muxpd-first-decode-collective-20261029-v1.tar.gz",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-first-decode-collective-20261029/muxpd-first-decode-collective-20261029-v1.tar.gz",
+          "id": 688999673,
+          "bytes": 38652433,
+          "digest": "sha256:4af1329bebae0ae494a5b880682c33cf56271bd7e7860769b7fd334fc213e24a",
+          "updated_at": "2026-10-29T15:30:50Z",
           "state": "uploaded"
         }
       ]
@@ -1319,6 +1497,113 @@
           "bytes": 5416,
           "digest": "sha256:ffd47ab2d4255b42fee40e0f99ad79d95a1f62efa1d3071df56f914160387223",
           "updated_at": "2026-10-28T09:33:59Z",
+          "state": "uploaded"
+        }
+      ]
+    },
+    {
+      "tag": "evidence-muxpd-prefix-first-decode-graph-20261029",
+      "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/tag/evidence-muxpd-prefix-first-decode-graph-20261029",
+      "id": 428343717,
+      "published_at": "2026-10-29T20:09:02Z",
+      "assets": [
+        {
+          "name": "REPORT-v2.zh-CN.md",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-prefix-first-decode-graph-20261029/REPORT-v2.zh-CN.md",
+          "id": 689764274,
+          "bytes": 6524,
+          "digest": "sha256:c9938de4afeaae3038ea5c028e23a1fad4f58dbbbda353e1fcf0877bfc408269",
+          "updated_at": "2026-10-29T20:08:55Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-prefix-first-decode-graph-20261029/SHA256SUMS",
+          "id": 689764394,
+          "bytes": 754,
+          "digest": "sha256:9aec7c21bbcc4f18b68dc1c25f5838845783dd3845173bf6aacbeda84c13fadd",
+          "updated_at": "2026-10-29T20:08:58Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "SUPPLEMENT-SHA256SUMS",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-prefix-first-decode-graph-20261029/SUPPLEMENT-SHA256SUMS",
+          "id": 689764454,
+          "bytes": 93,
+          "digest": "sha256:61106c8e147e7bac30084120a00532fc4acff5d16d487ae3178b441f1eb73dc4",
+          "updated_at": "2026-10-29T20:09:00Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "analysis-v2.json",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-prefix-first-decode-graph-20261029/analysis-v2.json",
+          "id": 689764390,
+          "bytes": 41817,
+          "digest": "sha256:bfc4d4cfd3fd04e085511d10963b81ff02bd9585fc223eab1cf2ed0a9a0985fd",
+          "updated_at": "2026-10-29T20:08:58Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "archive-manifest-v1.json",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-prefix-first-decode-graph-20261029/archive-manifest-v1.json",
+          "id": 689764275,
+          "bytes": 147004,
+          "digest": "sha256:9a23f3b52c9ad32d46dbee36910c92b58c9262e0e6098f30c74167358e25bfbb",
+          "updated_at": "2026-10-29T20:08:55Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "archive-record-v1.json",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-prefix-first-decode-graph-20261029/archive-record-v1.json",
+          "id": 689764276,
+          "bytes": 546,
+          "digest": "sha256:0ba62250bb752727d118dca49d113e9e594e13fdb0a22832f7f2125e553bc1e8",
+          "updated_at": "2026-10-29T20:08:55Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "external-dependencies-v2.json",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-prefix-first-decode-graph-20261029/external-dependencies-v2.json",
+          "id": 689764377,
+          "bytes": 39262,
+          "digest": "sha256:18378b5d668b1a00c0949caaf2dce4cbdefa25de001f344b5dec76cc00615707",
+          "updated_at": "2026-10-29T20:08:58Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "independent-audit-summary-v2.json",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-prefix-first-decode-graph-20261029/independent-audit-summary-v2.json",
+          "id": 689764389,
+          "bytes": 83140,
+          "digest": "sha256:01763ac2be24a662826d1f9d19d46eab270cdec505613bc7611b0ed8ff3c046a",
+          "updated_at": "2026-10-29T20:08:58Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "launch-path-review-v1.json",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-prefix-first-decode-graph-20261029/launch-path-review-v1.json",
+          "id": 689764457,
+          "bytes": 16550,
+          "digest": "sha256:67e6d47280ad6739cd75b7aeff8d659e7d596b78ca7e79a7615207a4a156f120",
+          "updated_at": "2026-10-29T20:09:00Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "local-verification-v1.json",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-prefix-first-decode-graph-20261029/local-verification-v1.json",
+          "id": 689764277,
+          "bytes": 564,
+          "digest": "sha256:1e98367b9ec8ad06445ff655799f5b7d93d293721c41576db447dfbc7430a284",
+          "updated_at": "2026-10-29T20:08:55Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "muxpd-prefix-first-decode-graph-20261029-v2.tar.gz",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/evidence-muxpd-prefix-first-decode-graph-20261029/muxpd-prefix-first-decode-graph-20261029-v2.tar.gz",
+          "id": 689764285,
+          "bytes": 32138688,
+          "digest": "sha256:e59947c1f566f632526445b8b675d965e0b4d2716e1bbbaedd38ceff08ff5e95",
+          "updated_at": "2026-10-29T20:09:01Z",
           "state": "uploaded"
         }
       ]
@@ -3125,6 +3410,15 @@
           "bytes": 4072939,
           "digest": "sha256:e98566025fa9111b3c484aff737e30a97c6083d2487bad91eecbe63335a647ec",
           "updated_at": "2026-10-27T10:32:30Z",
+          "state": "uploaded"
+        },
+        {
+          "name": "midterm-v102-production-20261029-r1.tar.gz",
+          "url": "https://github.com/vLLM-HUST/vllm-hust-benchmark/releases/download/m01-recovery-20261021-r7/midterm-v102-production-20261029-r1.tar.gz",
+          "id": 689513909,
+          "bytes": 3225292,
+          "digest": "sha256:4563dda3646caedb609f6bbe7760d46e9b39625a24f83b966d42fda979d02fbc",
+          "updated_at": "2026-10-29T18:33:06Z",
           "state": "uploaded"
         },
         {
@@ -5602,7 +5896,7 @@
   "website_publication_manifest": {
     "schema": "benchmark-website-publication/v1",
     "repository": "vLLM-HUST/vllm-hust-benchmark",
-    "commit": "f7f608384667f3ecad9820e93feec57f518892a4",
+    "commit": "34b4244c5451ded3b1d612db48ded269b6687699",
     "status": "published-source",
     "scope": "Website data files; original experiment provenance is retained inside each artifact.",
     "files": [
@@ -6473,6 +6767,20 @@
         "sha256": "db11f47784f2c9863b6e2f38e92d6f084d5b87d6d6f7edfd084285826d9cc664",
         "source_sha256": "db11f47784f2c9863b6e2f38e92d6f084d5b87d6d6f7edfd084285826d9cc664",
         "bytes": 545295
+      },
+      {
+        "website_path": "data/midterm-v101.json",
+        "benchmark_path": "website-publication/data/midterm-v101.json",
+        "sha256": "9f7814d46b4c5b899c9227dca860d3e236f658b34a686def9c2b7a7faeb91801",
+        "source_sha256": "9f7814d46b4c5b899c9227dca860d3e236f658b34a686def9c2b7a7faeb91801",
+        "bytes": 491592
+      },
+      {
+        "website_path": "data/midterm-v102.json",
+        "benchmark_path": "website-publication/data/midterm-v102.json",
+        "sha256": "d16e0e7fb5dd4bb58847348952069f5710c5c78bff317ef42963ed9ea03f8393",
+        "source_sha256": "d16e0e7fb5dd4bb58847348952069f5710c5c78bff317ef42963ed9ea03f8393",
+        "bytes": 576488
       },
       {
         "website_path": "data/mmlu-pro-20261012/accuracy.json",
